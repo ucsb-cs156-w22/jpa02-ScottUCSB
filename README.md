@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # STARTER-jpa02
 
 * TODO: Change the title of this README 
@@ -83,3 +84,6 @@ below.
     and produce pitest artifacts.
 
 
+=======
+# jpa02-ScottUCSB
+>>>>>>> 9eacd2a (first commit)
