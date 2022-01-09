@@ -2,7 +2,9 @@
 # jpa02-ScottUCSB
 
 Repo: https://github.com/ucsb-cs156-w22/jpa02-ScottUCSB
+
 On Heroku: https://jpa02-scottucsb.herokuapp.com/
+
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-ScottUCSB/
 
 
